@@ -1,0 +1,30 @@
+h1 {
+    color:yellow;
+    text-align: center;
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+    font-size: 80px;
+    font-family: sans-serif;
+}
+
+.brush {
+    color: white;
+    background-color: palegreen;
+    font-size: 30px;
+}
+
+#price {
+    color: blue;
+    font-weight: bold;
+}
+
+.frame {
+    color: white;
+    background-color:darksalmon;
+    font-size: 30px;
+}
+
+.rangi {
+    color: white;
+    background-color: skyblue;
+    font-size: 30px;
+}
