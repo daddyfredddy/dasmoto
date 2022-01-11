@@ -1,0 +1,37 @@
+nav {
+    background-image: url(images/das1.webp);
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: horizontal center;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.brush {
+    background-color: mediumspringgreen;
+}
+
+figcaption {
+    font-weight: bold;
+}
+
+.frame {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
